@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of kiddo/flarum-traditional-rank-icons.** Not for installation: use [Packagist](https://packagist.org/packages/kiddo/flarum-traditional-rank-icons) or the [upstream repository](https://github.com/kiddoVin/flarum-traditional-rank-icons).
 
-**0** versions archived · Latest: [`0.0.6`](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.6) · License: `MIT` · Flarum: `^1.2`
+**6** versions archived · Latest: [`0.0.6`](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.6) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2023-04-18 | `^1.2` | [Browse](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.1) |
+| `0.0.2` | 2023-04-18 | `^1.2` | [Browse](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.2) |
+| `0.0.3` | 2023-04-18 | `^1.2` | [Browse](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.3) |
+| `0.0.4` | 2023-04-18 | `^1.2` | [Browse](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.4) |
+| `0.0.5` | 2023-04-18 | `^1.2` | [Browse](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.5) |
+| `0.0.6` | 2023-04-18 | `^1.2` | [Browse](https://github.com/flarchive/kiddo-flarum-traditional-rank-icons/tree/archive/v0.0.6) |
 
 Catalog entry: [packages/kiddo-flarum-traditional-rank-icons.json](https://github.com/flarchive/archive-index/blob/main/packages/kiddo-flarum-traditional-rank-icons.json)
 
